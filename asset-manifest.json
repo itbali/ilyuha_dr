@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ilyuha_dr/static/css/main.cb5637a5.css",
-    "main.js": "/ilyuha_dr/static/js/main.e684a51b.js",
+    "main.css": "/ilyuha_dr/static/css/main.61cc7e1b.css",
+    "main.js": "/ilyuha_dr/static/js/main.83d35aef.js",
     "static/js/787.dea5d138.chunk.js": "/ilyuha_dr/static/js/787.dea5d138.chunk.js",
     "static/media/3.jpg": "/ilyuha_dr/static/media/3.74d63d5507810dda4332.jpg",
     "static/media/4.jpg": "/ilyuha_dr/static/media/4.03a494382f22e56c66a4.jpg",
@@ -13,12 +13,12 @@
     "static/media/5.jpg": "/ilyuha_dr/static/media/5.62ae571a039ecc1c2569.jpg",
     "static/media/8.jpg": "/ilyuha_dr/static/media/8.22e4e99104c128835452.jpg",
     "index.html": "/ilyuha_dr/index.html",
-    "main.cb5637a5.css.map": "/ilyuha_dr/static/css/main.cb5637a5.css.map",
-    "main.e684a51b.js.map": "/ilyuha_dr/static/js/main.e684a51b.js.map",
+    "main.61cc7e1b.css.map": "/ilyuha_dr/static/css/main.61cc7e1b.css.map",
+    "main.83d35aef.js.map": "/ilyuha_dr/static/js/main.83d35aef.js.map",
     "787.dea5d138.chunk.js.map": "/ilyuha_dr/static/js/787.dea5d138.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb5637a5.css",
-    "static/js/main.e684a51b.js"
+    "static/css/main.61cc7e1b.css",
+    "static/js/main.83d35aef.js"
   ]
 }
